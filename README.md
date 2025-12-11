@@ -37,9 +37,9 @@ Currently replacing legacy workflows with autonomous Python scripts.
 
 <div align="center">
 
-[![Saiko's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00)](https://github.com/YourUsername)
+[![Saiko's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kiki-the-bot&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00)](https://github.com/kiki-the-bot)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=fff)](https://github.com/YourUsername)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kiki-the-bot&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=fff)](https://github.com/kiki-the-bot)
 
 </div>
 
