@@ -1,6 +1,6 @@
 <div align="center">
 
-![System Status](https://img.shields.io/badge/STATUS-ONLINE-397834?style=for-the-badge&logo=python&logoColor=white)
+![System Status](https://img.shields.io/badge/STATUS-ONLINE-397834?style=for-the-badge)
 
 # ૮ ˶ᵔ ᵕ ᵔ˶ ა 
 
