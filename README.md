@@ -25,7 +25,7 @@ Escaped the BPO mines to build autonomous systems.
 
 ### ✩ // FEATURED_PROJECT
 
-**[🧠 SAIKO AGENT](https://github.com/kiki-the-bot/saikoV10)**
+**[🧠 SAIKO AGENT](https://github.com/kiki-the-bot/saiko_v10)**
 > *A local, latency-critical voice agent utilizing deterministic chaos parsing and semantic routing.*
 > `Python` `PyTorch` `CUDA` `AsyncIO`
 
