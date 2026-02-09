@@ -14,9 +14,8 @@
 
 ### ✩ // TRANSMISSION_LOG
 
-> **Class:** Autonomous agent developer 
 > **Base:** CDMX / The Wired
-> **Current Mission:** Optimizing speech to text pipelines 
+> **Current Mission:** Automating every mundane task I can 
 
 I specialize in **Local-First AI Agents** that run on consumer hardware. I don't believe in "Can't." I believe in "Code it until it works."
 Escaped the BPO mines to build autonomous systems.
