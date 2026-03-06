@@ -30,7 +30,7 @@ Escaped the BPO mines to build autonomous systems.
 
 ---
 
-### ✩ // WEAPON_CACHE
+### ✩ // TECH_STACK
 
 | **Core** | **Neural** | **Deploy** |
 | :--- | :--- | :--- |
@@ -39,7 +39,4 @@ Escaped the BPO mines to build autonomous systems.
 
 ---
 
-### ✩ // NEURAL_FEED
-
-* **Vibe:** Techno / Breakcore / Cumbia 🇲🇽
 * **Status:** `[■■■■■■■■■□] 90% OPTIMIZED`
